@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho na área de qualidade de software - QA
 - 🌱 Estou estudando Python e Java
 - 👯 Email para contato: pedrohsfwd@gmail.com
-- 😊 Estou estudando para me tornar um desenvolvedor Back-end
+- 😊 Estou estudando para me tornar um desenvolvedor Fullstack
 
 <div align="center">
   <a href="https://github.com/Pedrohswd">
