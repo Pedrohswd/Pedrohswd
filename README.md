@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho na área de qualidade de software - QA
 - 🌱 Estou estudando as tecnologias mais usadas no desenvolvimento web
+- 🐱‍👤 Atualmente focando em HTML - Css - JavaScript e Java
 - 👯 Email para contato: pedrohsfwd@gmail.com
 - 😊 Estou estudando para me tornar um desenvolvedor Fullstack
 
