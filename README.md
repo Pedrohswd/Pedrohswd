@@ -7,7 +7,7 @@
 - 😊 Estou estudando para me tornar um desenvolvedor Fullstack
 
 <div>
-  <a href="https://github.com/MateusSantosMeuBem">
+  <a href="https://github.com/Pedrohswd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrohswd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohswd&layout=compact&langs_count=7&theme=dark"/>
 </div>
