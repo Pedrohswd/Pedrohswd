@@ -4,8 +4,6 @@
 - 🌱 Estou estudando as tecnologias mais usadas no desenvolvimento web
 - 🐱‍👤 Atualmente focando em HTML - CSS - JavaScript e Java
 - 👯 Email para contato: pedrohsfwd@gmail.com
-- 😊 Estou estudando para me tornar um desenvolvedor Fullstack
-- Disponível para freelancer
 
 <div>
   <a href="https://github.com/Pedrohswd">
